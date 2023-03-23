@@ -11,3 +11,7 @@
 ![image](https://github.com/XxxuLimei/regnet_re/blob/main/pic/Figure_1.png)  
 ![image](https://github.com/XxxuLimei/regnet_re/blob/main/pic/Figure_1_inference.png)  
 ![image](https://github.com/XxxuLimei/regnet_re/blob/main/pic/Figure_2_inference.png)  
+
+
+## Reference:  
+RegNet:[Link](https://github.com/aaronlws95/regnet)  
