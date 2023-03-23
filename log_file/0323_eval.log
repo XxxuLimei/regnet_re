@@ -1,0 +1,10 @@
+(base) xilm@xilm-MS-7D17:~/fuxian/regnet-master$ python eval.py 
+100%|████████████████████████████████████████████████████████████████████| 574/574 [00:29<00:00, 19.45it/s]
+Roll Error 2.5247258239643333
+Pitch Error 6.651280365037018
+Yaw Error 2.326922382069787
+X Error 0.3808959930110249
+Y Error 0.7141523829919446
+Z Error 0.5802950514327976
+Mean Rotational Error 3.8343095236903797
+Mean Translational Error 0.5584478091452557
